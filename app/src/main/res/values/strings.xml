@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC4 Phase 1</string>
+    <string name="alc_welcome_message">Welcome to ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about">About</string>
+
+    <string name="username">Joseph Anaeligbo</string>
+    <string name="username_email">anaeligbojoseph@gmail.com</string>
+    <string name="slack_username">\@josephanaeligbo</string>
+    <string name="label_about_alc">About ALC</string>
+    <string name="label_profile">My Profile</string>
+</resources>
