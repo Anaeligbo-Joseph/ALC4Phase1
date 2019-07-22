@@ -19,6 +19,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".AboutActivity"
+            android:theme="@style/AppTheme"
             android:screenOrientation="portrait"
             android:label="@string/label_about_alc"
             android:parentActivityName=".AboutActivity"/>

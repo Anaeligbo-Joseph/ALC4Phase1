@@ -9,4 +9,7 @@
     <string name="slack_username">\@josephanaeligbo</string>
     <string name="label_about_alc">About ALC</string>
     <string name="label_profile">My Profile</string>
+    <string name="phone_number">+23481*47***57</string>
+    <string name="ssl_certificate_warning">This SSL Certificate of the site is not trusted.</string>
+    <string name="warning_ssl">SECURITY WARNING</string>
 </resources>
